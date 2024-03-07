@@ -62,7 +62,7 @@ img{
     margin-left: 1000px;
 } */
 .imgformate{
-    background-image: url(boy4.jpg); 
+    background-image: url(assest/boy4.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
 }
